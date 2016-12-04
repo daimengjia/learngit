@@ -2,4 +2,5 @@ Git is a distributed version contral system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creating a new branch called feature_one.
+Creating a new branch called feature_1.
+
